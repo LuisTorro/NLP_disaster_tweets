@@ -7,4 +7,4 @@ In this competition, you’re challenged to build a machine learning model that 
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 
-This is a approach to the problem using Tfid-vectorizer and scikit-learn.
+This is a approach to the problem using Tfid-vectorizer and scikit-learn. Score: 0.79619
